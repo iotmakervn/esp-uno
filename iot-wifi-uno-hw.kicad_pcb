@@ -2,8 +2,8 @@
 
   (general
     (links 154)
-    (no_connects 9)
-    (area 109.471337 58.578471 178.201339 112.068473)
+    (no_connects 0)
+    (area 100.963667 55.751666 178.201339 114.428333)
     (thickness 1.6)
     (drawings 48)
     (tracks 794)
@@ -2646,7 +2646,7 @@
     (tags "crystal oscillator quartz SMD SMT 5032")
     (path /5827C513)
     (attr smd)
-    (fp_text reference X1 (at 0.0254 -2.3876 360) (layer F.SilkS)
+    (fp_text reference X1 (at 0.0254 -2.3876) (layer F.SilkS)
       (effects (font (size 0.6 0.6) (thickness 0.15)))
     )
     (fp_text value CRYSTAL_ABM3C (at 0 3.25 270) (layer F.Fab) hide
