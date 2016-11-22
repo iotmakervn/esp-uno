@@ -1,9 +1,9 @@
 (kicad_pcb (version 20160815) (host pcbnew 201611122049+7349~55~ubuntu16.04.1)
 
   (general
-    (links 0)
-    (no_connects 9)
-    (area 101.163667 55.951666 178.338002 114.228333)
+    (links 165)
+    (no_connects 4)
+    (area 109.471337 58.578471 178.201339 112.068473)
     (thickness 1.6)
     (drawings 48)
     (tracks 821)
@@ -1553,7 +1553,7 @@
     )
   )
 
-  (module ESP8266:R_0603 (layer F.Cu) (tedit 580727E3) (tstamp 58296301)
+  (module ESP8266:R_0603 (layer F.Cu) (tedit 58343EB8) (tstamp 58296301)
     (at 136.652 78.232)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
@@ -1562,7 +1562,7 @@
     (fp_text reference R14 (at -1.9685 0.1905 90) (layer F.SilkS)
       (effects (font (size 0.6 0.6) (thickness 0.15)))
     )
-    (fp_text value 12K (at 0 1.9) (layer F.Fab) hide
+    (fp_text value 10K (at 0 1.9) (layer F.Fab) hide
       (effects (font (size 0.6 0.6) (thickness 0.15)))
     )
     (fp_line (start -1.4605 -0.6985) (end 1.4605 -0.6985) (layer F.SilkS) (width 0.1))
@@ -1688,7 +1688,7 @@
     )
   )
 
-  (module ESP8266:R_0603 (layer F.Cu) (tedit 5833F2D2) (tstamp 58293E6B)
+  (module ESP8266:R_0603 (layer F.Cu) (tedit 58343EB0) (tstamp 58293E6B)
     (at 136.652 75.692)
     (descr "Resistor SMD 0603, reflow soldering, Vishay (see dcrcw.pdf)")
     (tags "resistor 0603")
@@ -1697,7 +1697,7 @@
     (fp_text reference R13 (at -1.9685 -0.4445 90) (layer F.SilkS)
       (effects (font (size 0.6 0.6) (thickness 0.15)))
     )
-    (fp_text value 12K (at 0 1.9) (layer F.Fab) hide
+    (fp_text value 10K (at 0 1.9) (layer F.Fab) hide
       (effects (font (size 0.6 0.6) (thickness 0.15)))
     )
     (fp_line (start -1.4605 0.6985) (end -1.4605 -0.6985) (layer F.SilkS) (width 0.1))
