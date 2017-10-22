@@ -1,6 +1,10 @@
-update=Fri 20 Oct 2017 02:15:42 AM CDT
+update=22/05/2015 07:44:53
 version=1
 last_client=kicad
+[general]
+version=1
+RootSch=
+BoardNm=
 [pcbnew]
 version=1
 LastNetListRead=
@@ -23,11 +27,9 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
-LibDir=../iot-wifi-uno-hw;lib;lib
+LibDir=
 [eeschema/libraries]
 LibName1=power
 LibName2=device
@@ -58,21 +60,3 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=lib/usb_mini_b
-LibName31=lib/bb-ch340t
-LibName32=lib/CH340G
-LibName33=lib/dc-dc
-LibName34=lib/open-project
-LibName35=lib/MOSFET-P
-LibName36=lib/w_device
-LibName37=lib/ESP8266
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=assets/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60

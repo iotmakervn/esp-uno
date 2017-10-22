@@ -28,7 +28,6 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:ESP8266
 LIBS:usb_mini_b
 LIBS:bb-ch340t
 LIBS:CH340G
@@ -36,7 +35,9 @@ LIBS:dc-dc
 LIBS:open-project
 LIBS:MOSFET-P
 LIBS:w_device
-EELAYER 25 0
+LIBS:ESP8266
+LIBS:iot-wifi-uno-hw-cache
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
